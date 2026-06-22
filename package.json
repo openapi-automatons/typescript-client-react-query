@@ -62,7 +62,7 @@
     "eslint": "^10.5.0",
     "eslint-config-prettier": "^10.1.8",
     "husky": "^9.1.7",
-    "lint-staged": "^17.0.7",
+    "lint-staged": "^17.0.8",
     "object-to-formdata": "^4.5.1",
     "react": "^19.0.0",
     "semantic-release": "^25.0.5",
