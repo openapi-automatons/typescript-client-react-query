@@ -46,10 +46,10 @@
     "@automatons/tools" "^2.2.11"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.0", "@automatons/tools@^2.2.11", "@automatons/tools@^2.2.13":
-  version "2.2.13"
-  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.13.tgz#bc5ccde79641bc13c3d916fc3fb630d98ca4a75d"
-  integrity sha512-Nzgb9MNt2WQ2Ztnk6BYggT3rm76ZsVEsa9IXgWafahpjM11Eu2KCpOLvkpZFriOap5ujXWYtPd1oKUprQv9aKQ==
+"@automatons/tools@^2.2.0", "@automatons/tools@^2.2.11", "@automatons/tools@^2.2.15":
+  version "2.2.15"
+  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.15.tgz#5c9a42f3634405cabb03cf538b971346d937c63b"
+  integrity sha512-iq6LEqXzOylJWoQnURWGCMM9a/Cc2uc8hl+ovzuTw15tTtacLjhJjnoISjI558sdMen/obWVFZ/ebRlDF80ptg==
   dependencies:
     js-yaml "^5.2.0"
 
@@ -4343,10 +4343,10 @@ prelude-ls@^1.2.1:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
 
-prettier@^3.8.3, prettier@^3.9.3:
-  version "3.9.3"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.9.3.tgz#4caabe6fb955e8b8f13319f25872522ece519534"
-  integrity sha512-HWmu+K+zvHNpaMfSnYeqdqrDbR16cuIXaPx8WoHaviQkDJh1/0BNtOZmHVQI5jc3wXv0H1yXc9wjvFdXh+n3hQ==
+prettier@^3.8.3, prettier@^3.9.4:
+  version "3.9.4"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.9.4.tgz#a9c477cf1614376bd1f6bbc593d8c0d414bcec87"
+  integrity sha512-yWG/o/4oJfo036EKAfK6ACAoDOfHeRHx4tuxkfBZiauURiaSmYwlpOr5LQqKtIkRD2z1PLteme2WoxEnj4tHTg==
 
 pretty-ms@^9.2.0:
   version "9.3.0"
