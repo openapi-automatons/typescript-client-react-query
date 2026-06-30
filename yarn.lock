@@ -38,15 +38,15 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@automatons/parser@^1.2.0", "@automatons/parser@^1.2.26":
-  version "1.2.26"
-  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.26.tgz#ed28ca8330c4c55c8fd0c5c243d2f7c8af42696b"
-  integrity sha512-SOFcuSmdy1k+58U6+odsS06BJ44rnLr6ghzQ61ixmn/QBJilM5CIZa2tY6qk3uOeVZqZgGBmRXlt53WyWtYi+g==
+"@automatons/parser@^1.2.0", "@automatons/parser@^1.2.30":
+  version "1.2.30"
+  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.30.tgz#6ca324aead6fb2e67c6d969fe3e68a387bbdf884"
+  integrity sha512-EgCRROfVaADuVeOX0Y8qaVXe7pCWVkB9MyQFphBKVWVfIbLxi7iF/HLrb8p7Nm7K1L0ciwsJ5Zg6kBKqSzJEYg==
   dependencies:
-    "@automatons/tools" "^2.2.11"
+    "@automatons/tools" "^2.2.13"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.0", "@automatons/tools@^2.2.11", "@automatons/tools@^2.2.15":
+"@automatons/tools@^2.2.0", "@automatons/tools@^2.2.13", "@automatons/tools@^2.2.15":
   version "2.2.15"
   resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.15.tgz#5c9a42f3634405cabb03cf538b971346d937c63b"
   integrity sha512-iq6LEqXzOylJWoQnURWGCMM9a/Cc2uc8hl+ovzuTw15tTtacLjhJjnoISjI558sdMen/obWVFZ/ebRlDF80ptg==
