@@ -36,7 +36,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@automatons/parser": "^1.2.37",
+    "@automatons/parser": "^1.2.39",
     "@automatons/tools": "^2.2.20",
     "@automatons/typescript-client-fetch": "^1.2.0",
     "prettier": "^3.9.5",
@@ -68,7 +68,7 @@
     "semantic-release": "^25.0.5",
     "tsup": "^8.5.0",
     "typescript": "^6.0.3",
-    "typescript-eslint": "^8.63.0",
+    "typescript-eslint": "^8.64.0",
     "vitest": "^3.2.0"
   },
   "publishConfig": {
