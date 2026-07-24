@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.2...v1.0.3) (2026-07-24)
+
+
+### Bug Fixes
+
+* **deps:** bump @[secure]/typescript-client-fetch from 1.2.0 to 1.2.1 ([#90](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/90)) ([53a6c13](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/53a6c139f7afdac6a2c2122424ea7b534ff5b767))
+
 ## [1.0.2](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.1...v1.0.2) (2026-07-24)
 
 
