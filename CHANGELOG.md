@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.1...v1.0.2) (2026-07-24)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @semantic-release/git from 11.0.0 to 11.0.1 ([#91](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/91)) ([ed8e756](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/ed8e756b4c94120d7fd36818dd42416a5ada8b53))
+* **deps:** bump @[secure]/tools from 2.2.28 to 2.2.33 ([#89](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/89)) ([65361c9](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/65361c9917bd98f4d7035379cd3925f19cac6420))
+
 ## [1.0.1](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.0...v1.0.1) (2026-07-24)
 
 
