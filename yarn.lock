@@ -38,7 +38,7 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@automatons/parser@^1.2.0", "@automatons/parser@^1.2.47":
+"@automatons/parser@^1.2.47":
   version "1.2.47"
   resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.47.tgz#92daa0c0a48f6d33f990eef32e09718c54dcf0a7"
   integrity sha512-5DKy3Fw8Qzg2JpGS2RMnCTzFue+9mp20Lob7eazKdNMCehi0sGuKCI9gK3xDAjpaNS7FEhZTp3cvAFmbGK+16A==
@@ -46,21 +46,21 @@
     "@automatons/tools" "^2.2.27"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.0", "@automatons/tools@^2.2.27", "@automatons/tools@^2.2.33":
+"@automatons/tools@^2.2.27", "@automatons/tools@^2.2.28", "@automatons/tools@^2.2.33":
   version "2.2.33"
   resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.33.tgz#0158e6c882e0ab7520cbc4db02c99b62cfce6bee"
   integrity sha512-ENuaMTC1Ayoaw9zpE+Kl/wAOMxmNSzQpkR4YvjciLGzirEPgttVtJQ8FZWfw4+sSW7zWVZ/+5qcNiZDEQOkUqQ==
   dependencies:
     js-yaml "^5.2.2"
 
-"@automatons/typescript-client-fetch@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@automatons/typescript-client-fetch/-/typescript-client-fetch-1.2.0.tgz#7ad550c5e0e136e8d357d86915d0f9f6231a2e67"
-  integrity sha512-pUynAxvwJHlcpQjEqCl21rfCvlhY2yXSRAlRyIUS0OKKuwXtr+WJvJK08FEjxZDPz7lmxV9q+zGe0Vx0M7h3zA==
+"@automatons/typescript-client-fetch@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@automatons/typescript-client-fetch/-/typescript-client-fetch-1.2.1.tgz#fa7668f389d530ee15c788f799f047f18197e149"
+  integrity sha512-FzC2EwsJES8gwvGewrFe9ZQJSCXmBHcDOOD/VLMZamJaIAPLgMi5rs6M1ooES/iD+ZPhLos2+zTmB2YPqwHy5A==
   dependencies:
-    "@automatons/parser" "^1.2.0"
-    "@automatons/tools" "^2.2.0"
-    prettier "^3.8.3"
+    "@automatons/parser" "^1.2.47"
+    "@automatons/tools" "^2.2.28"
+    prettier "^3.9.6"
     ts-morph "^28.0.0"
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.26.2", "@babel/code-frame@^7.29.7":
@@ -4200,7 +4200,7 @@ prelude-ls@^1.2.1:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
 
-prettier@^3.8.3, prettier@^3.9.6:
+prettier@^3.9.6:
   version "3.9.6"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.9.6.tgz#b3ea5146515d40fc53f18aa63f74dfab1e10dbf6"
   integrity sha512-OpN0zzVdiaiAhxpuuj5efpIS4sY9j7bY6uR5mnj5yPzGkdkjNKSJeUThPb60Jw29QuAZgA4o+/iB49kFiaBX6g==
