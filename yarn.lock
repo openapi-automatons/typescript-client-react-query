@@ -38,7 +38,7 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@automatons/parser@^1.2.47", "@automatons/parser@^1.2.50":
+"@automatons/parser@^1.2.50":
   version "1.2.50"
   resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.50.tgz#6cf0937f1909e03a174c57fcc32a951116e0327a"
   integrity sha512-LPfPCukFKJfC6/yzhi+aWtJup+b0ORsujqWFimrhQXN/G9XWFdLDZB6jmyYs+NZDel4WMV8axFwlv3A4KZUzhw==
@@ -53,13 +53,13 @@
   dependencies:
     js-yaml "^5.2.2"
 
-"@automatons/typescript-client-fetch@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@automatons/typescript-client-fetch/-/typescript-client-fetch-1.2.1.tgz#fa7668f389d530ee15c788f799f047f18197e149"
-  integrity sha512-FzC2EwsJES8gwvGewrFe9ZQJSCXmBHcDOOD/VLMZamJaIAPLgMi5rs6M1ooES/iD+ZPhLos2+zTmB2YPqwHy5A==
+"@automatons/typescript-client-fetch@^1.2.3":
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/@automatons/typescript-client-fetch/-/typescript-client-fetch-1.2.3.tgz#94f7aa255d7a4b4cde8b444287393566585cbda7"
+  integrity sha512-LXUqKuWx7rDs0ViMK/y6cnSSakeLgXPQOd/IgmdMfocInHuzZGpwsoRnZZdDLlln/qItz0zyYe1/E9eN3S4W6A==
   dependencies:
-    "@automatons/parser" "^1.2.47"
-    "@automatons/tools" "^2.2.28"
+    "@automatons/parser" "^1.2.50"
+    "@automatons/tools" "^2.2.33"
     prettier "^3.9.6"
     ts-morph "^28.0.0"
 
@@ -459,10 +459,10 @@
     debug "^4.3.1"
     minimatch "^10.2.4"
 
-"@eslint/config-helpers@^0.6.0":
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@eslint/config-helpers/-/config-helpers-0.6.0.tgz#ef9a36881d39dfd5dbeac22b0da997fabfb08b03"
-  integrity sha512-ii6Bw9jJ2zi2cWA2Z+9/QZ/+3DX6kwaV5Q986D/CdP3Lap3w/pgQZ373FV7byY/i7L4IRH/G43I5dz1ClsCbpA==
+"@eslint/config-helpers@^0.7.0":
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/@eslint/config-helpers/-/config-helpers-0.7.0.tgz#09ee4aa07b73f059ec2d4c74bf4b2ff02b322377"
+  integrity sha512-DObd/KKUsU+FaFv4PLxSRenpXfQWmPXXP3pPZ6/K1PCrMu2vQpMDMuQe/BqYeoLcz8ro0bVDF1RxOJgfVEdhUw==
   dependencies:
     "@eslint/core" "^1.2.1"
 
@@ -2293,15 +2293,15 @@ eslint-visitor-keys@^5.0.0, eslint-visitor-keys@^5.0.1:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-5.0.1.tgz#9e3c9489697824d2d4ce3a8ad12628f91e9f59be"
   integrity sha512-tD40eHxA35h0PEIZNeIjkHoDR4YjjJp34biM0mDvplBe//mB+IHCqHDGV7pxF+7MklTvighcCPPZC7ynWyjdTA==
 
-eslint@^10.7.0:
-  version "10.7.0"
-  resolved "https://registry.yarnpkg.com/eslint/-/eslint-10.7.0.tgz#cd3b8022f3b1e3b183760d90dfc58e9d3644106b"
-  integrity sha512-GVTD7s1vdIl6UYvAfriOPeY1Df8LIZjfofLvHwde+erDHGGuHyuM6xoxRxmHiebhYuD2p1vN4wWh0XzPARSGDQ==
+eslint@^10.8.0:
+  version "10.8.0"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-10.8.0.tgz#e6d19907a3f090a53a022261ba34c5ff6d04908b"
+  integrity sha512-nuKKvN+oIBO0koN7Tm7dlkmnkc21mtt0QJLwAKzjLq14y6lRTdVG36MZHJ8eQHwdJMwZbQNMlPOYedMq/oVJvQ==
   dependencies:
     "@eslint-community/eslint-utils" "^4.8.0"
     "@eslint-community/regexpp" "^4.12.2"
     "@eslint/config-array" "^0.23.5"
-    "@eslint/config-helpers" "^0.6.0"
+    "@eslint/config-helpers" "^0.7.0"
     "@eslint/core" "^1.2.1"
     "@eslint/plugin-kit" "^0.7.2"
     "@humanfs/node" "^0.16.6"
@@ -2325,7 +2325,7 @@ eslint@^10.7.0:
     imurmurhash "^0.1.4"
     is-glob "^4.0.0"
     json-stable-stringify-without-jsonify "^1.0.1"
-    minimatch "^10.2.4"
+    minimatch "^10.2.5"
     natural-compare "^1.4.0"
     optionator "^0.9.3"
 

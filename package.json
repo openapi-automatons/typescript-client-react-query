@@ -38,7 +38,7 @@
   "dependencies": {
     "@automatons/parser": "^1.2.50",
     "@automatons/tools": "^2.2.33",
-    "@automatons/typescript-client-fetch": "^1.2.1",
+    "@automatons/typescript-client-fetch": "^1.2.3",
     "prettier": "^3.9.6",
     "ts-morph": "^28.0.0"
   },
@@ -59,7 +59,7 @@
     "@types/react": "^19.0.0",
     "@vitest/coverage-v8": "^3.2.0",
     "depcheck": "^1.4.7",
-    "eslint": "^10.7.0",
+    "eslint": "^10.8.0",
     "eslint-config-prettier": "^10.1.8",
     "husky": "^9.1.7",
     "lint-staged": "^17.2.0",
