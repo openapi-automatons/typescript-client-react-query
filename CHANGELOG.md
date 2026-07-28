@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.7...v1.0.8) (2026-07-28)
+
+
+### Bug Fixes
+
+* **deps:** bump @[secure]/parser from 1.2.51 to 1.2.52 ([#99](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/99)) ([b6add2c](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/b6add2c779df4db08508ebfdbb666eae43538e75))
+
 ## [1.0.7](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.6...v1.0.7) (2026-07-28)
 
 
