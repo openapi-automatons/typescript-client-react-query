@@ -38,7 +38,7 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@automatons/parser@^1.2.50", "@automatons/parser@^1.2.52":
+"@automatons/parser@^1.2.51", "@automatons/parser@^1.2.52":
   version "1.2.52"
   resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.52.tgz#b0ac13ac705f9838ab3ace691325f78eafafcb22"
   integrity sha512-86gvdhc6DsBijJXqLMqTsvXfCtVUOinnPSdxzslKNNm1jrtMq1f0yb0XFD2T7rdpQuP+4MA71J8OmmEJcrvx3Q==
@@ -46,20 +46,20 @@
     "@automatons/tools" "^2.2.34"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.33", "@automatons/tools@^2.2.34", "@automatons/tools@^2.2.35":
+"@automatons/tools@^2.2.34", "@automatons/tools@^2.2.35":
   version "2.2.35"
   resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.35.tgz#2ad9a524f3efd3fa374ad47bd706c08926cbfd9e"
   integrity sha512-QW1465L1dAl+Xdse+tF9R+HjhWwtmDb/dKr+8ERZRqpg5jhjtxXDjA7+xsefCpLs+PI7F9rORlyRmWAw39X2/A==
   dependencies:
     js-yaml "^5.2.2"
 
-"@automatons/typescript-client-fetch@^1.2.3":
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/@automatons/typescript-client-fetch/-/typescript-client-fetch-1.2.3.tgz#94f7aa255d7a4b4cde8b444287393566585cbda7"
-  integrity sha512-LXUqKuWx7rDs0ViMK/y6cnSSakeLgXPQOd/IgmdMfocInHuzZGpwsoRnZZdDLlln/qItz0zyYe1/E9eN3S4W6A==
+"@automatons/typescript-client-fetch@^1.2.5":
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/@automatons/typescript-client-fetch/-/typescript-client-fetch-1.2.5.tgz#d75221ad7897c06e3cc68eec24cac593cad04c49"
+  integrity sha512-qgOcTesL12EuoEstmbM1NKvld8X9dgBZHFb6JjBsgzIlu+Ogv8a1GpCw2UhthJ0bjan/W+g9pekIns6S9k36LQ==
   dependencies:
-    "@automatons/parser" "^1.2.50"
-    "@automatons/tools" "^2.2.33"
+    "@automatons/parser" "^1.2.51"
+    "@automatons/tools" "^2.2.34"
     prettier "^3.9.6"
     ts-morph "^28.0.0"
 
