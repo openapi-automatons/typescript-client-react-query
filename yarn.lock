@@ -53,10 +53,10 @@
   dependencies:
     js-yaml "^5.2.2"
 
-"@automatons/typescript-client-fetch@^1.2.8":
-  version "1.2.8"
-  resolved "https://registry.yarnpkg.com/@automatons/typescript-client-fetch/-/typescript-client-fetch-1.2.8.tgz#37995c3d452c62c0d2d3440700e5000720e5aec3"
-  integrity sha512-HD5rD7ljYDXQ23jVrtsNGmbaKA55l2JHPTKWCwWGIe6PnSzErmoe3Pfhby6CB6Oq77G9AN+Px9g556V0jDtzhQ==
+"@automatons/typescript-client-fetch@^1.2.9":
+  version "1.2.9"
+  resolved "https://registry.yarnpkg.com/@automatons/typescript-client-fetch/-/typescript-client-fetch-1.2.9.tgz#355607578648e80b50d4ad35aeb6c9833e99067d"
+  integrity sha512-Dj0DdoByYCOztrSUZ6nAFY7yLv58tm9f5VuFFR2FfEbJ6PLdi5jXyOCl3IaypqzKmGfx7k2r1d4fT53I9ovrvQ==
   dependencies:
     "@automatons/parser" "^1.2.53"
     "@automatons/tools" "^2.2.35"
