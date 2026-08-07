@@ -1,3 +1,12 @@
+## [1.0.13](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.12...v1.0.13) (2026-08-07)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump typescript-eslint from 8.65.0 to 8.66.0 ([#106](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/106)) ([df952c6](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/df952c6eacb3ba04ae71875052be6bf5d2fe5f3f))
+* **deps:** bump @[secure]/parser from 1.2.53 to 1.2.54 ([#108](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/108)) ([746facf](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/746facfde1b4ead6c3a62beaa95c0a1cd243657e))
+* **deps:** bump @[secure]/typescript-client-fetch from 1.2.8 to 1.2.9 ([#107](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/107)) ([1f522c0](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/1f522c00c55cab504a0330c5e7472d80aa6185a9))
+
 ## [1.0.12](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.11...v1.0.12) (2026-08-03)
 
 
