@@ -46,12 +46,12 @@
     "@automatons/tools" "^2.2.35"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.35":
-  version "2.2.35"
-  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.35.tgz#2ad9a524f3efd3fa374ad47bd706c08926cbfd9e"
-  integrity sha512-QW1465L1dAl+Xdse+tF9R+HjhWwtmDb/dKr+8ERZRqpg5jhjtxXDjA7+xsefCpLs+PI7F9rORlyRmWAw39X2/A==
+"@automatons/tools@^2.2.35", "@automatons/tools@^2.2.38":
+  version "2.2.38"
+  resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.38.tgz#a6d5369ca399ead6a8c8f05c2fd80ec6866f83fe"
+  integrity sha512-EBJuRjdWxHLB6PYhZrZdz7pyNQETvBmo/dDBx4Df47iHrufnyjapRMNzxniZGrg7TVIuRF1seUnJENXKebLSlA==
   dependencies:
-    js-yaml "^5.2.2"
+    js-yaml "^5.2.3"
 
 "@automatons/typescript-client-fetch@^1.2.9":
   version "1.2.9"
@@ -3101,10 +3101,10 @@ js-yaml@^4.1.0:
   dependencies:
     argparse "^2.0.1"
 
-js-yaml@^5.2.2:
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-5.2.2.tgz#497bfe63f0b0db11c7bbc5ce8bc568e836c8b08c"
-  integrity sha512-dayzUzKkJ1MkuUtZglSebU43utNXH0OWQByK9rKOOuYIO8M5TV1y+n8ALMdG0rdzBnfNkOmZEqrURepb0ejqBw==
+js-yaml@^5.2.3:
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-5.2.3.tgz#0942ae8f507e22eb0e54624871789cd477106e54"
+  integrity sha512-n+mUVyUX5bVv7G/G2zyIHOhdxfuU1dY2NOFzTQUWiMUbFss8b57NFlgCCaggU78wSw5KVS9cllzeLyzyR+n5nw==
   dependencies:
     argparse "^2.0.1"
 
