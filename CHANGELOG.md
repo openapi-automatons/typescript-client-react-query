@@ -1,3 +1,10 @@
+## [1.0.19](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.18...v1.0.19) (2026-08-13)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump typescript-eslint from 8.66.0 to 8.67.0 ([#117](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/117)) ([de3908e](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/de3908eb57485ed8e6bc385f262958d4f87b944e))
+
 ## [1.0.18](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.17...v1.0.18) (2026-08-13)
 
 
