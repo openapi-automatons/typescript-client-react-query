@@ -36,7 +36,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@automatons/parser": "^1.2.56",
+    "@automatons/parser": "^1.2.61",
     "@automatons/tools": "^2.2.38",
     "@automatons/typescript-client-fetch": "^1.2.15",
     "prettier": "^3.9.6",
@@ -50,7 +50,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^21.2.1",
-    "@commitlint/config-conventional": "^21.1.0",
+    "@commitlint/config-conventional": "^21.2.2",
     "@eslint/js": "^10.0.1",
     "@semantic-release/changelog": "^7.0.0",
     "@semantic-release/git": "^11.0.1",
