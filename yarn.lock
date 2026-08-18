@@ -38,27 +38,27 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@automatons/parser@^1.2.56", "@automatons/parser@^1.2.61":
-  version "1.2.61"
-  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.61.tgz#14fbc93f275d14584c6e00427d36664a8c45ad6d"
-  integrity sha512-vfIgSOgMnYB5pgvzajpleXDHaFlFhEi0enR3MV84v/+N1BXWHujIs34vCXX0JFrsELj5ybkLp4RpyxfO87sX1w==
+"@automatons/parser@^1.2.58", "@automatons/parser@^1.2.61":
+  version "1.2.63"
+  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.63.tgz#5937fab4730f594bde9ddfead04f60e38e8b1b00"
+  integrity sha512-D91kbiUIhWTRtII2CeZRzClFUvLCljtZDd1DL73av0kFFj5JYmQS9u+plRs7p1nkMeDhxOuHtsY3zicPF12FRg==
   dependencies:
-    "@automatons/tools" "^2.2.40"
+    "@automatons/tools" "^2.2.42"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.38", "@automatons/tools@^2.2.40":
+"@automatons/tools@^2.2.38", "@automatons/tools@^2.2.42":
   version "2.2.44"
   resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.44.tgz#8b255d2152b601dbdad5085041802df35ccaba1c"
   integrity sha512-5kmm72BndwgK7ZEURuvWRTgU3hETga/1J2n0dCP4IyHkxz5ug/onw7ffx8g/esB4LhEbaXmtGju7rQ1wW96fLw==
   dependencies:
     js-yaml "^5.3.0"
 
-"@automatons/typescript-client-fetch@^1.2.15":
-  version "1.2.15"
-  resolved "https://registry.yarnpkg.com/@automatons/typescript-client-fetch/-/typescript-client-fetch-1.2.15.tgz#f0fef9cf492bc4313b5796560792f4ccd8d66d46"
-  integrity sha512-ueaMU4x+CU0dU8WcE+wmzRCPRHt7xrIZ7Gs7Cb6pxti8sMxjaqJGHxsvmDmefOIiq5dq7s8iZV2IW6E4TkzLUQ==
+"@automatons/typescript-client-fetch@^1.2.18":
+  version "1.2.18"
+  resolved "https://registry.yarnpkg.com/@automatons/typescript-client-fetch/-/typescript-client-fetch-1.2.18.tgz#7741dd843a67be9b01f6068dd00033ed0bf168be"
+  integrity sha512-/39sXEHreJ3jy0zx/vdJ3QqVs7/hJ9v586iypoadd/TYUaHAJRySdn5f/6KwQbGdinfeTmTAtDVgD1sRNoBBjA==
   dependencies:
-    "@automatons/parser" "^1.2.56"
+    "@automatons/parser" "^1.2.58"
     "@automatons/tools" "^2.2.38"
     prettier "^3.9.6"
     ts-morph "^28.0.0"
