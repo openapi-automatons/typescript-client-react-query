@@ -1,3 +1,10 @@
+## [1.0.34](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.33...v1.0.34) (2026-09-01)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump lint-staged from 17.3.0 to 17.4.1 ([#142](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/142)) ([575b2c3](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/575b2c3f84406378b1af8771a63acd683328452c))
+
 ## [1.0.33](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.32...v1.0.33) (2026-08-31)
 
 
