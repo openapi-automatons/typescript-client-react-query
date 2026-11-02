@@ -30,29 +30,29 @@
   resolved "https://registry.yarnpkg.com/@actions/io/-/io-3.0.2.tgz#6f89b27a159d109836d983efa283997c23b92284"
   integrity sha512-nRBchcMM+QK1pdjO7/idu86rbJI5YHUKCvKs0KxnSYbVe3F51UfGxuZX4Qy/fWlp6l7gWFwIkrOzN+oUK03kfw==
 
-"@automatons/parser@^1.2.66", "@automatons/parser@^1.2.73":
-  version "1.2.73"
-  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.73.tgz#7e8a07c245decf51fd0a9938403d2cbdb71eebac"
-  integrity sha512-aTiRep8EEQzG4DYB49Tya3OafhULpB6C5jkP9nJ+KeYOhmiv3Nz23wF92kEWSUEfPwMFfv/DqKX9L8J4xNmb4A==
+"@automatons/parser@^1.2.71", "@automatons/parser@^1.2.73":
+  version "1.2.74"
+  resolved "https://registry.yarnpkg.com/@automatons/parser/-/parser-1.2.74.tgz#c18e0121665051a3c197f1f53865d4cee2f137f1"
+  integrity sha512-X1IyS5g6Q6JsFeTc4Zln9st8/8syY9PrHy7UMlsDuh143jZXoST0SDOm0wVWL3BmpCGXVWe7DeXIALknVbGkvw==
   dependencies:
-    "@automatons/tools" "^2.2.49"
+    "@automatons/tools" "^2.2.50"
     change-case "^5.4.4"
 
-"@automatons/tools@^2.2.38", "@automatons/tools@^2.2.49", "@automatons/tools@^2.2.50":
+"@automatons/tools@^2.2.38", "@automatons/tools@^2.2.50":
   version "2.2.52"
   resolved "https://registry.yarnpkg.com/@automatons/tools/-/tools-2.2.52.tgz#c372b27b5bad777db2ae8e226064a7d349916e2d"
   integrity sha512-4od//kKTMQn4VHSBH6id/LcKwzsPW3L9mBrn3IRXaOcerWWGLAHNMfHnF+l/C/vgHXiwRSgyOnHgieZfYgeA3w==
   dependencies:
     js-yaml "^5.5.0"
 
-"@automatons/typescript-client-fetch@^1.2.28":
-  version "1.2.28"
-  resolved "https://registry.yarnpkg.com/@automatons/typescript-client-fetch/-/typescript-client-fetch-1.2.28.tgz#ac62388cb147acd989216d1bd23054f5b78a0ba6"
-  integrity sha512-T7/vGUjkd/dVDF9UEof7Ma66kwB1zksXxDSLX8SNxruyPA0RXd9vFkrO++c0qrUB0rf8QgsDjBdnODtPQ/vp9Q==
+"@automatons/typescript-client-fetch@^1.2.29":
+  version "1.2.29"
+  resolved "https://registry.yarnpkg.com/@automatons/typescript-client-fetch/-/typescript-client-fetch-1.2.29.tgz#c0d799d955d60e6052cd2230bc645b7080c5ef99"
+  integrity sha512-U3H7xOu4TMNMBWpg3cFMbUZoSfAYTofB7pLut0PNlLcyYpTtwtdyT9ONtARQMI8X3+iSFqgQC2xVcjTNJzKq/g==
   dependencies:
-    "@automatons/parser" "^1.2.66"
+    "@automatons/parser" "^1.2.71"
     "@automatons/tools" "^2.2.38"
-    prettier "^3.9.6"
+    prettier "^3.9.10"
     ts-morph "^28.0.0"
 
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.26.2", "@babel/code-frame@^7.29.7":
@@ -4270,7 +4270,7 @@ prelude-ls@^1.2.1:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
 
-prettier@^3.9.10, prettier@^3.9.6:
+prettier@^3.9.10:
   version "3.9.10"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.9.10.tgz#ac378e432f1a7381518f2e080816bbaefa38d585"
   integrity sha512-skGHTH1Yb9QvaTC4hWnRTzEYtCpApF0UMBPz+t/0ZPzP8ihefo/btKd+QA7pUE0fEwA1SbS/NmhyEcstdXOIdA==
