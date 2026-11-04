@@ -1,3 +1,10 @@
+## [1.0.39](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.38...v1.0.39) (2026-11-04)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump @[secure]/[secure] from 5.105.0 to 5.105.1 ([#198](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/198)) ([43bfd17](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/43bfd17667f80b75a4a2c75213c2dfc2410a9da2))
+
 ## [1.0.38](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.37...v1.0.38) (2026-11-02)
 
 
