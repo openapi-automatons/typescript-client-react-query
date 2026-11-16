@@ -1,3 +1,11 @@
+## [1.0.48](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.47...v1.0.48) (2026-11-16)
+
+
+### Bug Fixes
+
+* **deps:** bump @[secure]/parser from 1.2.79 to 1.2.82 ([#216](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/216)) ([e64d892](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/e64d8929f6e24f6df855ebd4162fa5243a52e743))
+* **deps:** bump prettier from 3.9.10 to 3.10.1 ([#215](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/215)) ([08abb4f](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/08abb4f14a9017bb04bcdac82605c06985bfb520))
+
 ## [1.0.47](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.46...v1.0.47) (2026-11-16)
 
 
