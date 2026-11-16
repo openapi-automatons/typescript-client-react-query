@@ -36,7 +36,7 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "@automatons/parser": "^1.2.77",
+    "@automatons/parser": "^1.2.82",
     "@automatons/tools": "^2.2.55",
     "@automatons/typescript-client-fetch": "^1.2.34",
     "prettier": "^3.9.10",
