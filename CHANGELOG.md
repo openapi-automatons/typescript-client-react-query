@@ -1,3 +1,10 @@
+## [1.0.50](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.49...v1.0.50) (2026-11-17)
+
+
+### Bug Fixes
+
+* **deps-dev:** bump eslint from 10.14.0 to 10.15.0 ([#217](https://github.com/[secure]-[secure]/typescript-client-[secure]/issues/217)) ([1b52cb6](https://github.com/[secure]-[secure]/typescript-client-[secure]/commit/1b52cb6e06e3bc334a1661deaafb23520db6aac3))
+
 ## [1.0.49](https://github.com/[secure]-[secure]/typescript-client-[secure]/compare/v1.0.48...v1.0.49) (2026-11-16)
 
 
